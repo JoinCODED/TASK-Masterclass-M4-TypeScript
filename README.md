@@ -62,12 +62,14 @@ Do not re-type the common field for `Employee` and `Manager`, instead:
 5. Add logic to complete the `isGreaterThan` function.
 6. Add logic to complete the `isLesserThan` function (you may use the `isGreaterThan` and `isEqual` methods to determine a strict `isLesserThan` return value).
 7. Add logic to complete the `isEqual` function.
+8. Run the tests using `npm test`, you should only fail the "Meridian" test.
 
 ## Enum Bonus
 
 1. Add a string enum for `Meridian` in `unions.ts`.
 2. Complete the `get meridian` getter method in the `Time` class.
 3. Verify that the console logs are printing the time correctly formatted.
+4. Run the tests, you should pass them all.
 
 ## Enum Spicy Bonus
 
