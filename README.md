@@ -15,7 +15,7 @@ Let's learn some TypeScript!
    - **firstName**: `string`
    - **lastName**: `string`
    - **age**: `number`
-4. Complete the function for `showPerson` and behold the magic of auto-completion!
+4. Complete the function for `showPeople` and behold the magic of auto-completion!
 5. Verify your script works by running `npm start`.
 6. Type in the `Employee` interface:
    - **firstName**: `string`
@@ -23,14 +23,17 @@ Let's learn some TypeScript!
    - **age**: `number`
    - **company**: `string`
    - **position**: `string`
-7. Verify your script works by running `npm start`.
-8. Type in the `Manager` interface:
+7. Complete the function for `showEmployees` and behold the magic of auto-completion!
+8. Verify your script works by running `npm start`.
+9. Type in the `Manager` interface:
    - **firstName**: `string`
    - **lastName**: `string`
    - **age**: `number`
    - **company**: `string`
    - **position**: `string`
    - **level**: `number`
+10. Complete the function for `showManagers` and behold the magic of auto-completion!
+11. Verify your script works by running `npm start`.
 
 ### Interfaces Bonus
 
