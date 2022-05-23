@@ -13,7 +13,7 @@ export function getTemplate(size: ScreenSize): string {
   return "";
 }
 
-class Time {
+export class Time {
   constructor(public hour: number = 0, public minute: number = 0) {}
 
   static parse(raw: TimeLike): Time {
